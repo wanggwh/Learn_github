@@ -8,4 +8,7 @@ Dette er en simpel README-fil til at lære, hvordan man bruger og opretter en RE
 git init
 git add .
 git commit -m "Første commit"
+
+git ZILAS ER SÅ GRIM
+
 ```
